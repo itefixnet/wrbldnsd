@@ -88,10 +88,6 @@ Many other options can be configured via the script file. Check the man page for
 
 wrbldnsd is tested successfully for serving DNSBL zones on Windows. You should test and verify that it works for your specific needs.
 
-## Documentation
-
-- **Rbldnsd man page**: [build/rbldnsd-man-page.md](build/rbldnsd-man-page.md) - Complete reference documentation for rbldnsd
-
 ## Links
 
 - **Rbldnsd homepage**: https://rbldnsd.io/
