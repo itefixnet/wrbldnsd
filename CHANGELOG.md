@@ -1,6 +1,18 @@
 # Changelog
 
+| Component Name   | Component Version | Component Source / URL                         |
+|------------------|------------------|-------------------------------------------------|
+| Rbldnsd          | 0.998a           | https://rbldnsd.io/                             |
+| Cygwin           | 3.6.6            | https://cygwin.com/packages/summary/cygwin.html |
+
 All notable changes to this project will be documented in this file.
+
+## [5.0.5] - 2025-02-07
+
+### Changed
+- cygwin 3.6.6
+
+[5.0.5]: https://github.com/itefixnet/wrbldnsd/releases/tag/v5.0.5
 
 ## [5.0.4] - 2025-11-04
 
